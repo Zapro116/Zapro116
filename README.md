@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hariom Chaurasia</h1>
+<h1 align="center">Hi 👋, I'm Hariom Chaurasia. I am currently a FTE, working and improving my development skills , writing clean coding of professional standard. It's a great experience overall.</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<img align="right" alt="coding" width="600" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapro116&label=Profile%20views&color=0e75b6&style=flat" alt="zapro116" /> </p>
 
