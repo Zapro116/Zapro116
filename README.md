@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapro116&label=Profile%20views&color=0e75b6&style=flat" alt="zapro116" /> </p>
 
 
-- 🔭 I’m currently working on **React Js** as an **FTE**
+- 🔭 Working on **React Js** as an **FTE**
 
-- 🌱 I’m currently focusing on **DSA**
+- 🌱 Focusing on **DSA**
 
 - ⚡ Fun fact **I write clean code**
 
