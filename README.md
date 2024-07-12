@@ -5,11 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapro116&label=Profile%20views&color=0e75b6&style=flat" alt="zapro116" /> </p>
 
 
-- 🔭 Working on **Front-end** and **Back-end** as an **Full Stack Engineer** with **2** Years of experience.
+- 🔭 Working on **Front-end** and **Back-end** as an **Full Stack Engineer** with more than **2** Years of professtional experience. 
 
 - 🌱 Focusing on **Career growth opportunities**
 
 - ⚡ Fun fact **I write clean code and document it well**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
