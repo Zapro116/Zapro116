@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hariom Chaurasia</h1>
-<h3 align="center"> I am currently a SDE 1, working and improving my development skills, writing clean coding of professional standard. It's a great experience overall. More more updated information about me, please visit linkedin or try calling me.</h3>
+<h3 align="center"> I am currently a SDE 1, working and improving my development skills, writing clean code of professional standard. It's a great experience overall.
+<br /><br /> For more updated information about me, please visit linkedin or try calling <a target="_blank" href="https://drive.google.com/file/d/1gRGiDR3HF2GfORdVcErtoRHG52gGpnWS/view">me</a>.</h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapro116&label=Profile%20views&color=0e75b6&style=flat" alt="zapro116" /> </p>
 
 
-- 🔭 Working on **Front-end** and **Back-end** as an **Full Stack Engineer** with more than **2** Years of professtional experience. 
+- 🔭 With over **2.5 years** of experience as a frontend developer, I've demonstrated versatility across various projects and technologies.
+- From developing **scalable micro frontend applications** with **React.js** and **Redux** to creating **GenAI-based systems** and **FHIR**-compliant query generators, I've consistently adapted to new challenges.
+- My experience spans **Agile environment**, version control with **Git**, project management with **Jira**, and build tools like **Babel** and **Webpack**.
+- I'm now **seeking a senior frontend role** where I can leverage my diverse skill set to drive innovation and deliver exceptional user experiences.
 
-- 🌱 Focusing on **Career growth opportunities**
-
-- ⚡ Fun fact **I write clean code and document it well**
+- 🌱 Focusing on **Career growth opportunities**.
+- ⚡ I have implemented robust unit testing across projects using **Jest** and **React Testing Library**, ensuring **code quality**,
+**reliability**, and achieving more than **85% code coverage overall**.
 
 
 <h3 align="left">Connect with me:</h3>
